@@ -1,0 +1,47 @@
+img{
+    color: aqua;
+    width: fit-content;
+    height: fit-content;
+}
+p{
+    background-color: aqua;
+    font-size: medium;
+    text-transform:uppercase;
+
+}
+#div1{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(19, 220, 183);
+    border: 2px solid black;
+}
+.div1{
+    height: 200px;
+    width: 400px;
+    background-color: chartreuse;
+    border: 2px solid black;
+}
+.div2{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(69, 157, 195);
+    border: 2px solid black;
+}
+.div3{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(187, 122, 17);
+    border: 2px solid black;
+}
+.div4{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(4, 0, 255);
+    border: 2px solid black;
+}
+.div5{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(131, 14, 199);
+    border: 2px solid black;
+}
